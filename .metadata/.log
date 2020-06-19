@@ -14,4 +14,4 @@ EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
 !ENTRY org.eclipse.oomph.setup.ui 1 0 2020-06-19 10:02:14.538
-!MESSAGE Setup tasks were performed during startup updating 5 preferences. See 'C:\Users\edyto\eclipse\java-2020-03\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
+!MESSAGE Setup tasks were performed during startup updating 5 preferences. See 'C:\Users\edyto\eclipse\java-2020-03\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details.
